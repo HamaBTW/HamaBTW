@@ -215,12 +215,6 @@ My journey spans **end-to-end software development**, from conceptualization and
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=EABE7C&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+👋;Let's+innovate+together+⚡;Building+the+future+of+education+🎓;Connect+with+me+for+collaboration!" alt="Footer typing animation" />
-
-</div>
-
-<div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 </div>
